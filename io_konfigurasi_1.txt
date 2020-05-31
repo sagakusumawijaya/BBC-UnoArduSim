@@ -1,0 +1,7 @@
+﻿Push Button 1 wired to pin -1 with values D, M
+Push Button 2 wired to pin -1 with values D, M
+Coloured LED 1 wired to pin -1 with values D, R
+Coloured LED 2 wired to pin -1 with values D, R
+Analog Slider 1 wired to pin -1 
+Analog Slider 2 wired to pin -1 
+USB Serial 1 wired to pins 1, 0 with value 9600
